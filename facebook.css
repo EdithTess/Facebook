@@ -1,0 +1,128 @@
+body{
+    background-color: #edf0f5;
+    color: #fff;
+}
+.app-nav-bar{
+    background-color: #3b5998;
+    border-bottom: #133783;
+    height: 75px;
+    align-content: left;
+    padding-bottom: 8px;
+}
+
+#cool{
+    color:#adb9d3;
+}
+/* #tipo{
+padding-top: 1rem;
+padding-bottom: 1rem;
+
+} */
+
+.button1{
+    float: left;
+    background-color: #4267b2;
+    padding-top: 5px;
+    color: #fff;
+    border:#29487d;
+    font-weight: bold;
+    /* border-radius: 0.5rem; */
+   
+    /* margin-top: 1rem;*/
+    width: 4rem;
+    border-radius: 0.5rem;
+    height: 2rem;
+    padding-bottom: 5px; 
+
+      
+
+}
+
+.button2{
+    background-color: green;
+}
+#pl{
+    text-align: center;
+    padding-top: 15px;
+    columns: #fff;
+}
+
+#jk{
+    color: black;
+}
+
+.flex-item{
+
+
+    /* text-emphasis:initial; */
+    text-align: start;
+     padding: 100px; 
+    
+}
+#lp{
+    color: #D3D3D3;
+  
+}
+
+.radio{
+    padding: 10px;
+}
+
+#r1{
+    padding: 5px;
+    width: 140px;
+    height: 20px;
+}
+
+#userpolicy{
+    font-size: 0.8rem;
+    color: #8c7792;
+}
+
+#userpolicy a {
+    color: #5b58b7;
+}
+
+#btn_signup{
+    background-color: #5e984b;
+    color: #fff;
+    border: #3d6e22;
+    font-weight: bold;
+    margin-top: 1rem;
+    width: 10rem;
+    border-radius: 0.5rem;
+    height: 2rem;
+
+}
+
+
+
+.footer{
+
+background-color: #fff;
+color: #3877ca;
+}
+
+.footerlink{
+color: #3877ca;
+}
+
+#foo{
+/* background-color: #737373; */
+color: #737373;
+/* background-color:black; */
+    /*color:white;*/
+    clear:both;
+    /* text-align:center; */
+    /* padding:5px; */
+}
+
+#add-lang{
+    border: 2px solid;
+    font-weight: bold;
+    color: grey;
+    font-size: x-large;
+    border-radius: 0px auto;
+    width: fit-content;
+
+}
